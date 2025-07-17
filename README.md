@@ -3,26 +3,26 @@ This portfolio showcases a curated set of Power BI projects that reflect my abil
 
 Across these projects, I’ve built dashboards that:
 
-Decode sales trends, profitability, and performance metrics
+.Decode sales trends, profitability, and performance metrics
 
-Visualize sector-specific data in healthcare and food tech
+.Visualize sector-specific data in healthcare and food tech
 
-Translate marketing and operational data into strategic decision points
+.Translate marketing and operational data into strategic decision points
 
-Use DAX to construct dynamic KPIs, time intelligence, and conditional logic
+.Use DAX to construct dynamic KPIs, time intelligence, and conditional logic
 
-Enable stakeholders to interact with complex datasets effortlessly
+.Enable stakeholders to interact with complex datasets effortlessly
 
 🔍 How This Applies to Corporate Finance, Advisory & Data Roles
 These projects go beyond visuals — they reflect how I approach data like an analyst, designer, and decision-support partner rolled into one. Here's how they map to future roles:
 
-Capability	Demonstrated Through	Relevance to Future Roles
-Data modeling & wrangling	Power BI sales, assessment, worldometer dashboards	Supports CFOs, analysts, or managed services teams with clean, trustworthy data pipelines
-DAX-driven logic & automation	DAX Board, Sales Report	Used in automated monthly board packs, forecasting models, and investor dashboards
-Sector-specific insight	Healthcare & Zomato dashboards	Shows ability to tailor analysis by industry — a must in advisory/M&A work
-Storytelling & UX	All dashboards	Simplifies insights for non-technical stakeholders — essential in finance and investor-facing teams
-Strategic impact analysis	Marketing efficiency, Zomato, revenue dashboards	Supports decision-making with clear KPIs and actionable signals
-Public data integration	Worldometer project	Shows flexibility to work with open datasets, APIs, or third-party data for thought leadership or research
+.Capability	Demonstrated Through	Relevance to Future Roles
+.Data modeling & wrangling	Power BI sales, assessment, worldometer dashboards	Supports CFOs, analysts, or managed services teams with clean, trustworthy data pipelines
+.DAX-driven logic & automation	DAX Board, Sales Report	Used in automated monthly board packs, forecasting models, and investor dashboards
+.Sector-specific insight	Healthcare & Zomato dashboards	Shows ability to tailor analysis by industry — a must in advisory/M&A work
+.Storytelling & UX	All dashboards	Simplifies insights for non-technical stakeholders — essential in finance and investor-facing teams
+.Strategic impact analysis	Marketing efficiency, Zomato, revenue dashboards	Supports decision-making with clear KPIs and actionable signals
+.Public data integration	Worldometer project	Shows flexibility to work with open datasets, APIs, or third-party data for thought leadership or research
 
 🛠️ Tools & Techniques Used Across the Portfolio
 Power BI (DAX, measures, drill-throughs, filters, custom visuals)
